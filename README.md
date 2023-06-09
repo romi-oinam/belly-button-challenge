@@ -1,6 +1,6 @@
 **DEPLOYMENT:**
 
-Below is the link to the dashboard
+Here is the link to the dashboard
  https://romi-oinam.github.io/belly-button-challenge/Starter_Code/SolvedCode/
 
 # belly-button-challenge
